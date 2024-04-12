@@ -202,6 +202,7 @@ header a:hover {
 
 footer {
     background-color: rgb(230, 230, 230);
+    
 }
 
 footer p {
@@ -258,7 +259,7 @@ footer .container {
     }
 
     #somos-proya .img-container {
-        background-image: url("media/somos-proya.jpg");
+        background-image: url("media/academit.png");
         background-size: cover;
         background-position: center center;
         height: 500px;
