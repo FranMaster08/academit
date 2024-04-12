@@ -395,3 +395,34 @@ footer .container {
         text-align: center;
     }
 }
+
+section {
+    padding: 50px 0;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+}
+
+#final {
+    background-image: url('media/formulario-bg.jpg');
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+}
+
+#final form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#final form .form-group {
+    margin-bottom: 20px;
+}
+
+#final form button {
+    width: 100%;
+}
