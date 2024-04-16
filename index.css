@@ -56,7 +56,8 @@ button:hover {
 }
 
 .color-acento {
-    color: blueviolet;
+    color: #ff9800
+    ;
 }
 
 header {
@@ -68,7 +69,7 @@ header .logo {
     margin: 0;
     padding: 25px 30px;
     font-weight: bold;
-    color: blueviolet;
+    color: #ff9800;
     font-size: 1.6em;
 }
 
